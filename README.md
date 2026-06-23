@@ -106,6 +106,7 @@ Password: admin123
 
 ### Project Structure
 
+```
 sems-event-management/                          # Root Project Folder
 │
 ├── backend/                                     # Backend (Flask Server)
@@ -156,3 +157,4 @@ sems-event-management/                          # Root Project Folder
 │   │   │
 │   │   └── utils/                              # Utility functions
 │   │       └── degreeCodes.js                 # Degree code mappings
+```
